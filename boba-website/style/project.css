@@ -1,3 +1,68 @@
-body{
-  background-color: purple;
+.pics1{
+display:flex;
+justify-content: space-between;
+}
+
+.pics2{
+display:flex;
+justify-content: space-between;
+}
+
+.pics3{
+display:flex;
+justify-content: space-between;
+}
+
+.pics4{
+display:flex;
+justify-content: space-between;
+}
+
+#foto1{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto2{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto3{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto4{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto5{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto6{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto7{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto8{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto9{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto10{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto11{
+  border-style: solid;
+  border-width: 15px 15px 80px;
+}
+#foto12{
+  border-style: solid;
+  border-width: 15px 15px 80px;
 }
